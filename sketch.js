@@ -1,3 +1,5 @@
+//As most of coding is building upon another person's design, I did a design collab with Sarah Ann's dots and Tony's music :)
+//If continued, I'd *correctly* add a pause button so it wouldn't stop/restart and I'd extra fine tune the color/amplitude conversions to be more smooth and less jarring.
 let b;
 let h;
 let t = 0; 
